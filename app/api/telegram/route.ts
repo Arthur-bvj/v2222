@@ -1,6 +1,6 @@
 export async function POST(request: Request) {
-  const TELEGRAM_BOT_TOKEN = "8189053438:AAHSmuOvUqHfuAoDjPrzywTyLdCwtmGxcB4"
-  const TELEGRAM_CHAT_ID = "-5028274331"
+  const TELEGRAM_BOT_TOKEN = "8449887582:AAGLUc94ARddZPGdcCp7s5fmdSm7C8PxF-I"
+  const TELEGRAM_CHAT_ID = "-5133323110"
 
   try {
     const body = await request.json()
